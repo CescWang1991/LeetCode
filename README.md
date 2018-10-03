@@ -15,5 +15,8 @@
 
 ### 11 to 20:
 
-#### 11. Container With Most Water([code](11_20_java/ContainerWithMostWater.java), [decription](https://leetcode.com/problems/container-with-most-water/description/))
-#### 14. Longest Common Prefix([code](11_20_java/LongestCommonPrefix.java), [decription](https://leetcode.com/problems/longest-common-prefix/description/))
+#### 11. Container With Most Water([code](11_20_java/ContainerWithMostWater.java), [description](https://leetcode.com/problems/container-with-most-water/description/))
+#### 14. Longest Common Prefix([code](11_20_java/LongestCommonPrefix.java), [description](https://leetcode.com/problems/longest-common-prefix/description/))
+#### 15. Three sums([code](11_20_java/ThreeSum.java), [description](https://leetcode.com/problems/3sum/description/))
+#### 19. Remove Nth Node From End Of List([code](11_20_java/RemoveNthNodeFromEndofList.java), [description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/))
+#### 20. Valid Parentheses([code](11_20_java/ValidParentheses.java), [description](https://leetcode.com/problems/valid-parentheses/description/))
