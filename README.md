@@ -26,6 +26,6 @@
 #### 21. Merge Two Sorted Lists([scala](20_30_scala/MergeTwoSortedLists.scala), [description](https://leetcode.com/problems/merge-two-sorted-lists/description/))
 #### 22. Generate Parentheses([scala](20_30_scala/GenerateParentheses.scala), [description](https://leetcode.com/problems/generate-parentheses/description/))
 #### 23. Merge k Sorted Lists([scala](20_30_scala/MergekSortedLists.scala), [description](https://leetcode.com/problems/merge-k-sorted-lists/description/))
-#### 26. Remove Duplicates from Sorted Array([scala](20_30_scala/RemoveDuplicatesFromSortedArray.scala, [description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)))
+#### 26. Remove Duplicates from Sorted Array([scala](20_30_scala/RemoveDuplicatesFromSortedArray.scala), [description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)))
 #### 27. Remove Element([scala](20_30_scala/RemoveElement.scala), [description](https://leetcode.com/problems/remove-element/description/))
 #### 30. Substring with Concatenation of All Words([scala](20_30_scala/SubstringWithConcatenationOfAllWords.scala), [description](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/))
