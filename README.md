@@ -26,6 +26,15 @@
 #### 21. Merge Two Sorted Lists([scala](20_30_scala/MergeTwoSortedLists.scala), [description](https://leetcode.com/problems/merge-two-sorted-lists/description/))
 #### 22. Generate Parentheses([scala](20_30_scala/GenerateParentheses.scala), [description](https://leetcode.com/problems/generate-parentheses/description/))
 #### 23. Merge k Sorted Lists([scala](20_30_scala/MergekSortedLists.scala), [description](https://leetcode.com/problems/merge-k-sorted-lists/description/))
-#### 26. Remove Duplicates from Sorted Array([scala](20_30_scala/RemoveDuplicatesFromSortedArray.scala, [description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)))
+#### 26. Remove Duplicates from Sorted Array([scala](20_30_scala/RemoveDuplicatesFromSortedArray.scala), [description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/))
 #### 27. Remove Element([scala](20_30_scala/RemoveElement.scala), [description](https://leetcode.com/problems/remove-element/description/))
 #### 30. Substring with Concatenation of All Words([scala](20_30_scala/SubstringWithConcatenationOfAllWords.scala), [description](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/))
+
+### 31 to 40:
+
+#### 31. Next Permutation([java](31_40_java/NextPremutation.java), [description](https://leetcode.com/problems/next-permutation/description/))
+#### 32. Longest Valid Parentheses([java](31_40_java/LongestValidParentheses.java), [description](https://leetcode.com/problems/longest-valid-parentheses/description/))
+#### 34. Find First and Last Position of Element in Sorted Array([java](31_40_java/SearchRange.java), [description](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))
+#### 36. Valid Sudoku([java](31_40_java/ValidSudoku.java), [description](https://leetcode.com/problems/valid-sudoku/description/))
+#### 39. Combination Sum([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum/description/))
+#### 40. Combination Sum II([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum-ii/description/))
