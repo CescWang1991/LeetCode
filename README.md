@@ -29,8 +29,3 @@
 #### 26. Remove Duplicates from Sorted Array([scala](20_30_scala/RemoveDuplicatesFromSortedArray.scala, [description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)))
 #### 27. Remove Element([scala](20_30_scala/RemoveElement.scala), [description](https://leetcode.com/problems/remove-element/description/))
 #### 30. Substring with Concatenation of All Words([scala](20_30_scala/SubstringWithConcatenationOfAllWords.scala), [description](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/))
-
-### 31 to 40:
-
-#### 31. Next Permutation([java](31_40_java/NextPremutation.java), [description](https://leetcode.com/problems/next-permutation/description/))
-#### 32. Longest Valid Parentheses([java](), [description]())
