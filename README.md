@@ -38,3 +38,7 @@
 #### 36. Valid Sudoku([java](31_40_java/ValidSudoku.java), [description](https://leetcode.com/problems/valid-sudoku/description/))
 #### 39. Combination Sum([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum/description/))
 #### 40. Combination Sum II([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum-ii/description/))
+
+### 41 to 50:
+
+#### [Python](https://github.com/CescWang1991/LeetCode-Python)
