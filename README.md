@@ -39,6 +39,13 @@
 #### 39. Combination Sum([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum/description/))
 #### 40. Combination Sum II([java](31_40_java/CombinationSum.java), [description](https://leetcode.com/problems/combination-sum-ii/description/))
 
-### 41 to 50:
+### 41 to 80:
 
 #### [Python](https://github.com/CescWang1991/LeetCode-Python)
+
+### 81 to 90:
+
+#### 81. Search in Rotated Sorted Array II([scala](81_90_scala/SearchSortedArray.scala), [description](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/))
+#### 83. Remove Duplicates from Sorted List([scala](81_90_scala/DeleteDuplicates.scala), [description](https://leetcode.com/problems/remove-duplicates-from-sorted-list/))
+#### 84. Largest Rectangle in Histogram([scala](81_90/LargetestRectangle.scala), [description](https://leetcode.com/problems/largest-rectangle-in-histogram/))
+#### 85. Maximal Rectangle([scala](MaxRectangle.scala), [description](https://leetcode.com/problems/maximal-rectangle/))
