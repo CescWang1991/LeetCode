@@ -47,5 +47,8 @@
 
 #### 81. Search in Rotated Sorted Array II([scala](81_90_scala/SearchSortedArray.scala), [description](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/))
 #### 83. Remove Duplicates from Sorted List([scala](81_90_scala/DeleteDuplicates.scala), [description](https://leetcode.com/problems/remove-duplicates-from-sorted-list/))
-#### 84. Largest Rectangle in Histogram([scala](81_90/LargetestRectangle.scala), [description](https://leetcode.com/problems/largest-rectangle-in-histogram/))
-#### 85. Maximal Rectangle([scala](MaxRectangle.scala), [description](https://leetcode.com/problems/maximal-rectangle/))
+#### 84. Largest Rectangle in Histogram([scala](81_90_scala/LargetestRectangle.scala), [description](https://leetcode.com/problems/largest-rectangle-in-histogram/))
+#### 85. Maximal Rectangle([scala](81_90_scala/MaxRectangle.scala), [description](https://leetcode.com/problems/maximal-rectangle/))
+#### 86. Partition List([scala](81_90_scala/PartitionList.scala), [description](https://leetcode.com/problems/partition-list/))
+#### 89. Gray Code([scala](81_90_scala/GrayCode.scala), [description](https://leetcode.com/problems/gray-code/))
+#### 90. Subsets II([scala](81_90_scala/Subsets.scala), [description](https://leetcode.com/problems/subsets-ii/))
