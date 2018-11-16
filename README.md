@@ -52,3 +52,8 @@
 #### 86. Partition List([scala](81_90_scala/PartitionList.scala), [description](https://leetcode.com/problems/partition-list/))
 #### 89. Gray Code([scala](81_90_scala/GrayCode.scala), [description](https://leetcode.com/problems/gray-code/))
 #### 90. Subsets II([scala](81_90_scala/Subsets.scala), [description](https://leetcode.com/problems/subsets-ii/))
+
+### 91 to 100:
+
+#### 91. Decode Ways([java](91_100_java/DecodeWays.java), [description](https://leetcode.com/problems/decode-ways/))
+#### 92. Reverse List II([java]())
