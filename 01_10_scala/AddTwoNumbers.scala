@@ -1,8 +1,3 @@
-class ListNode(var _x: Int = 0) {
-  var next: ListNode = null
-  var x: Int = _x
-}
-
 /**
   * You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse
   * order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
@@ -18,7 +13,7 @@ object AddTwoNumbers {
     val l2 = new ListNode(5)
     l2.next = new ListNode(6)
     l2.next.next = new ListNode(4)
-    println(addTwoNumbers(l1, l2).next.x)
+    println(addTwoNumbers(l1, l2).next.`val`)
   }
 
   def addTwoNumbers(l1: ListNode, l2: ListNode): ListNode = {
@@ -27,7 +22,7 @@ object AddTwoNumbers {
     var head: ListNode = null
     // set head of output
     if(l1 != null && l2 != null){
-      sum = l1.x + l2.x
+      sum = l1.`val` + l2.`val`
       carry = sum / 10
       head = new ListNode(sum % 10)
     }
@@ -40,7 +35,7 @@ object AddTwoNumbers {
     var q: ListNode = l2.next
     var rest = head
     while(p != null && q != null){
-      sum = p.x + q.x + carry
+      sum = p.`val` + q.`val` + carry
       carry = sum / 10
       rest.next = new ListNode(sum % 10)
       rest = rest.next
@@ -48,14 +43,14 @@ object AddTwoNumbers {
       q = q.next
     }
     while(p != null){
-      sum = p.x + carry
+      sum = p.`val` + carry
       carry = sum / 10
       rest.next = new ListNode(sum % 10)
       rest = rest.next
       p = p.next
     }
     while(q != null){
-      sum = q.x + carry
+      sum = q.`val` + carry
       carry = sum / 10
       rest.next = new ListNode(sum % 10)
       rest = rest.next
