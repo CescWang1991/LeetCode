@@ -1,9 +1,9 @@
 public class RemoveNthNodeFromEndofList {
-    public LinkedNode removeNthFromEnd(LinkedNode head, int n) {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
         int length = 0;
-        LinkedNode dummy = new LinkedNode(0);
+        ListNode dummy = new ListNode(0);
         dummy.next = head;
-        LinkedNode node = head;
+        ListNode node = head;
         while(node != null){
             length++;
             node = node.next;
